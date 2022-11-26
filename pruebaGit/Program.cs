@@ -126,7 +126,7 @@ namespace pruebaGit
                                 Console.WriteLine("No hay descuentos");
                             }
 
-                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.ForegroundColor = ConsoleColor.Green;
                         }
                         break;
                     default:

@@ -104,7 +104,7 @@ namespace pruebaGit
 
                                 for (int i = 0; i < descompte.Length; i++)
                                 {
-                                    suma += descompte[i]; //suma de los elementos del array
+                                    suma += descompte[i]; //suma de los elementos del Array
                                 }
 
                                 double total;
